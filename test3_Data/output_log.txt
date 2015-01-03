@@ -1,0 +1,16 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7500M/7600M Series (ID=0x6841)
+    Vendor:   ATI
+    VRAM:     1011 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Sunny\Documents\New Unity Project 8\test3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sunny\Documents\New Unity Project 8\test3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sunny\Documents\New Unity Project 8\test3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Sunny\Documents\New Unity Project 8\test3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.059 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
